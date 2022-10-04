@@ -22,6 +22,7 @@ nav a{
 	color: #fff;
 	font-size: 16px;
 	display: inline-block;
+	font-family: 'BPG Ingiri';
 }
 
 .navbar-contact{
@@ -31,6 +32,7 @@ nav a{
 	box-sizing: border-box;
 	width: auto;
 	padding: 5px;
+	margin-left: 20px;
 }
 
 /*Section Styles*/
@@ -59,6 +61,7 @@ nav a{
 	color:#171717;
 	width: 63%;
 	margin: auto;
+	font-family: 'BPG Ingiri';
 
 }
 
@@ -67,6 +70,7 @@ nav a{
 	margin: auto;
 	color: #171717;
 	font-size: 16px;
+	font-family: 'BPG Ingiri';
 }
 
 
@@ -86,6 +90,7 @@ p {
 	padding: 10px;
 	text-align: center;
 	display: block;
+	font-family: 'BPG Ingiri';
 
 	
 }
@@ -110,6 +115,7 @@ iframe{
 	font-size:20px;
 	margin-left:200px;
 	padding-top: 50px;
+	font-family: 'BPG Ingiri';
 }
 .contact-text{
 	margin-left:200px;
@@ -117,7 +123,8 @@ iframe{
 	width: 300px;
 	color: #FFFFFF;
 	font-size: 10px;
-
+	font-family: 'BPG Ingiri';
+	
 }
 
 
